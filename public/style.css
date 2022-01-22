@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(19, 19, 19) !important;
+}
+
+h1, h2, h3, p, h4, h5, h6 {
+    color: white !important;
+}
+
+.navbar, .active, a, .navbar-default {
+    border: none !important;
+    background-color: rgb(19, 19, 19) !important;
+    color: white !important;
+}
